@@ -1,0 +1,3 @@
+---
+- name: "Hello bastion"
+  shell: "echo Hello bastion"

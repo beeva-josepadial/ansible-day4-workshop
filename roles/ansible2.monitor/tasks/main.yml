@@ -1,0 +1,5 @@
+---
+- name: "Hello monitor"
+  shell: "echo Hello monitor"
+
+

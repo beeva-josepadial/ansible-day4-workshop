@@ -3,6 +3,6 @@
   become: true
 
   roles:
-    - { role: "../roles/ansible2.bastion/" }
-    - { role: "../roles/ansible2.monitor/" }
-    - { role: "../roles/ansible2.metrics/" }
+    - { role: "roles/ansible2.bastion" }
+    - { role: "roles/ansible2.monitor" }
+    - { role: "roles/ansible2.metrics" }
